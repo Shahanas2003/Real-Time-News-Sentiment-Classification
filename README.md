@@ -1,4 +1,5 @@
 Real-Time News Sentiment Classification and Dashboard using PySpark
+
 1 Fetch real-time news using some new API
 
 2 Classify news headlines as Positive or Negative using a PySpark ML pipeline.
